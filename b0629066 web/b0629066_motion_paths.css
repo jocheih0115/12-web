@@ -1,0 +1,421 @@
+#page1.gwd-play-animation .gwd-motion-path-1w4m-anim-x {
+  --gwd-motion-path: {
+    "tangentFollowing":false, "sections":[ {
+      "controlPoints": ["249px", "217px", "206.67px", "199.67px", "164.33px", "182.33px", "122px", "165px"], "startTimeMs": 0, "endTimeMs": 500, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["122px", "165px", "101px", "153px", "80px", "141px", "59px", "129px"], "startTimeMs": 500, "endTimeMs": 1000, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["59px", "129px", "43px", "127.33px", "27px", "125.67px", "11px", "124px"], "startTimeMs": 1000, "endTimeMs": 1500, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["11px", "124px", "11px", "124px", "11px", "124px", "11px", "124px"], "startTimeMs": 1500, "endTimeMs": 2000, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["11px", "124px", "0.33px", "130.33px", "-10.33px", "136.67px", "-21px", "143px"], "startTimeMs": 2000, "endTimeMs": 2500, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["-21px", "143px", "-30.33px", "148px", "-39.67px", "153px", "-49px", "158px"], "startTimeMs": 2500, "endTimeMs": 3000, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["-49px", "158px", "-64.67px", "151.33px", "-80.33px", "144.67px", "-96px", "138px"], "startTimeMs": 3000, "endTimeMs": 3500, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["-96px", "138px", "-112px", "128.67px", "-128px", "119.33px", "-144px", "110px"], "startTimeMs": 3500, "endTimeMs": 4000, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["-144px", "110px", "-144px", "110px", "-144px", "110px", "-144px", "110px"], "startTimeMs": 4000, "endTimeMs": 4500, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["-144px", "110px", "-162px", "113px", "-180px", "116px", "-198px", "119px"], "startTimeMs": 4500, "endTimeMs": 5000, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["-198px", "119px", "-213.67px", "128.33px", "-229.33px", "137.67px", "-245px", "147px"], "startTimeMs": 5000, "endTimeMs": 5500, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["-245px", "147px", "-265px", "153.33px", "-285px", "159.67px", "-305px", "166px"], "startTimeMs": 5500, "endTimeMs": 6000, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["-305px", "166px", "-324.67px", "179.33px", "-344.33px", "192.67px", "-364px", "206px"], "startTimeMs": 6000, "endTimeMs": 6500, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["-364px", "206px", "-381.33px", "212.33px", "-398.67px", "218.67px", "-416px", "225px"], "startTimeMs": 6500, "endTimeMs": 7000, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["-416px", "225px", "-435.67px", "230.33px", "-455.33px", "235.67px", "-475px", "241px"], "startTimeMs": 7000, "endTimeMs": 7500, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["-475px", "241px", "-493.67px", "245.33px", "-512.33px", "249.67px", "-531px", "254px"], "startTimeMs": 7500, "endTimeMs": 8000, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["-531px", "254px", "-531px", "254px", "-531px", "254px", "-531px", "254px"], "startTimeMs": 8000, "endTimeMs": 8500, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["-531px", "254px", "-513.67px", "355.33px", "-496.33px", "456.67px", "-479px", "558px"], "startTimeMs": 8500, "endTimeMs": 9000, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["-479px", "558px", "-227.81px", "539.06px", "327.22px", "513.39px", "279px", "512.33px"], "startTimeMs": 9000, "endTimeMs": 9500, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["279px", "512.33px", "250.67px", "510.22px", "401.33px", "457.11px", "373px", "455px"], "startTimeMs": 9500, "endTimeMs": 10000, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["373px", "455px", "413px", "348px", "268px", "10px", "308px", "-97px"], "startTimeMs": 10000, "endTimeMs": 10500, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["308px", "-97px", "274.33px", "-102.67px", "240.67px", "-108.33px", "207px", "-114px"], "startTimeMs": 10500, "endTimeMs": 11000, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["207px", "-114px", "183.33px", "-108.33px", "115.67px", "-83.67px", "92px", "-78px"], "startTimeMs": 11000, "endTimeMs": 11500, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["92px", "-78px", "64px", "-56.33px", "30.59px", "-20.07px", "2.59px", "1.6px"], "startTimeMs": 11500, "endTimeMs": 12000, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["2.59px", "1.6px", "-12.08px", "27.27px", "-40.04px", "88.59px", "-54.71px", "114.26px"], "startTimeMs": 12000, "endTimeMs": 12500, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["-54.71px", "114.26px", "-68.38px", "141.93px", "-90.57px", "192.49px", "-104.24px", "220.16px"], "startTimeMs": 12500, "endTimeMs": 13000, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["-104.24px", "220.16px", "-95.16px", "195.78px", "-127.6px", "282.95px", "-118.52px", "258.56px"], "startTimeMs": 13000, "endTimeMs": 13500, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["-118.52px", "258.56px", "-162.68px", "272.04px", "-206.84px", "285.52px", "-251px", "299px"], "startTimeMs": 13500, "endTimeMs": 14000, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["-251px", "299px", "-295px", "299px", "-339px", "299px", "-383px", "299px"], "startTimeMs": 14000, "endTimeMs": 14500, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["-383px", "299px", "-397.78px", "301.15px", "-418.51px", "304.16px", "-438px", "307px"], "startTimeMs": 14500, "endTimeMs": 15000, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["-438px", "307px", "-466.87px", "311.2px", "-493px", "315px", "-493px", "315px"], "startTimeMs": 15000, "endTimeMs": 15500, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["-493px", "315px", "-493px", "315px", "-493px", "315px", "-493px", "315px"], "startTimeMs": 15500, "endTimeMs": 20650, "easing": "ease"
+    }
+    , {
+      "controlPoints": ["-493px", "315px", "-493px", "315px", "-493px", "315px", "-493px", "315px"], "startTimeMs": 20650, "endTimeMs": 21150, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["-493px", "315px", "-493px", "315px", "-493px", "315px", "-493px", "315px"], "startTimeMs": 21150, "endTimeMs": 21650, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["-493px", "315px", "-493px", "315px", "-493px", "315px", "-493px", "315px"], "startTimeMs": 21650, "endTimeMs": 21660, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["-493px", "315px", "-493px", "315px", "-493px", "315px", "-493px", "315px"], "startTimeMs": 21660, "endTimeMs": 22160, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["-493px", "315px", "-493px", "315px", "-493px", "315px", "-493px", "315px"], "startTimeMs": 22160, "endTimeMs": 22660, "easing": "linear"
+    }
+    , {
+      "controlPoints": ["-493px", "315px", "-493px", "315px", "-493px", "315px", "-493px", "315px"], "startTimeMs": 22660, "endTimeMs": 23160, "easing": "linear"
+    }
+    ], "positionTol":0.5, "angleTol":1, "optimizationLevel":0
+  }
+  ;
+  animation: 23.16s linear 0s 1 normal forwards running gwd-motion-path-1w4m-keys-x;
+  transform: translate3d(249px, 0px, 0px);
+}
+@keyframes gwd-motion-path-1w4m-keys-x {
+  0% {
+    transform: translate3d(249px, 0px, 0px);
+  }
+  2.16% {
+    transform: translate3d(122px, 0px, 0px);
+  }
+  4.32% {
+    transform: translate3d(59px, 0px, 0px);
+  }
+  6.48% {
+    transform: translate3d(11px, 0px, 0px);
+  }
+  8.64% {
+    transform: translate3d(11px, 0px, 0px);
+  }
+  10.79% {
+    transform: translate3d(-21px, 0px, 0px);
+  }
+  12.95% {
+    transform: translate3d(-49px, 0px, 0px);
+  }
+  15.11% {
+    transform: translate3d(-96px, 0px, 0px);
+  }
+  17.27% {
+    transform: translate3d(-144px, 0px, 0px);
+  }
+  19.43% {
+    transform: translate3d(-144px, 0px, 0px);
+  }
+  21.59% {
+    transform: translate3d(-198px, 0px, 0px);
+  }
+  23.75% {
+    transform: translate3d(-245px, 0px, 0px);
+  }
+  25.91% {
+    transform: translate3d(-305px, 0px, 0px);
+  }
+  28.07% {
+    transform: translate3d(-364px, 0px, 0px);
+  }
+  30.22% {
+    transform: translate3d(-416px, 0px, 0px);
+  }
+  32.38% {
+    transform: translate3d(-475px, 0px, 0px);
+  }
+  34.54% {
+    transform: translate3d(-531px, 0px, 0px);
+  }
+  36.7% {
+    transform: translate3d(-531px, 0px, 0px);
+  }
+  38.86% {
+    transform: translate3d(-479px, 0px, 0px);
+  }
+  40.97% {
+    transform: translate3d(265.91px, 0px, 0px);
+  }
+  41.02% {
+    transform: translate3d(279px, 0px, 0px);
+    animation-timing-function: cubic-bezier(0.0987, -0.6514, 0.8681, 0.9274);
+  }
+  41.56% {
+    transform: translate3d(297.81px, 0px, 0px);
+    animation-timing-function: cubic-bezier(0.3343, 0.3315, 0.6548, 0.6803);
+  }
+  43.07% {
+    transform: translate3d(375.64px, 0px, 0px);
+  }
+  43.12% {
+    transform: translate3d(375.99px, 0px, 0px);
+  }
+  43.18% {
+    transform: translate3d(373px, 0px, 0px);
+    animation-timing-function: cubic-bezier(0.2026, -0.6003, 0.7974, 1.6003);
+  }
+  45.34% {
+    transform: translate3d(308px, 0px, 0px);
+  }
+  47.5% {
+    transform: translate3d(207px, 0px, 0px);
+  }
+  49.65% {
+    transform: translate3d(92px, 0px, 0px);
+  }
+  51.81% {
+    transform: translate3d(2.59px, 0px, 0px);
+  }
+  53.97% {
+    transform: translate3d(-54.71px, 0px, 0px);
+  }
+  56.13% {
+    transform: translate3d(-104.24px, 0px, 0px);
+    animation-timing-function: cubic-bezier(0.0777, -0.5555, 0.8354, 0.9072);
+  }
+  57.43% {
+    transform: translate3d(-113.46px, 0px, 0px);
+    animation-timing-function: cubic-bezier(0.2476, 0.1905, 0.8019, 1.8532);
+  }
+  58.29% {
+    transform: translate3d(-118.52px, 0px, 0px);
+  }
+  60.45% {
+    transform: translate3d(-251px, 0px, 0px);
+  }
+  62.61% {
+    transform: translate3d(-383px, 0px, 0px);
+  }
+  64.77% {
+    transform: translate3d(-438px, 0px, 0px);
+  }
+  66.93% {
+    transform: translate3d(-493px, 0px, 0px);
+  }
+  89.16% {
+    transform: translate3d(-493px, 0px, 0px);
+  }
+  91.32% {
+    transform: translate3d(-493px, 0px, 0px);
+  }
+  93.48% {
+    transform: translate3d(-493px, 0px, 0px);
+  }
+  93.52% {
+    transform: translate3d(-493px, 0px, 0px);
+  }
+  95.68% {
+    transform: translate3d(-493px, 0px, 0px);
+  }
+  97.84% {
+    transform: translate3d(-493px, 0px, 0px);
+  }
+  100% {
+    transform: translate3d(-493px, 0px, 0px);
+  }
+}
+#page1.gwd-play-animation .gwd-motion-path-1w4m-anim-y {
+  animation: 23.16s linear 0s 1 normal forwards running gwd-motion-path-1w4m-keys-y;
+  transform: translate3d(0px, 217px, 0px);
+}
+@keyframes gwd-motion-path-1w4m-keys-y {
+  0% {
+    transform: translate3d(0px, 217px, 0px);
+  }
+  2.16% {
+    transform: translate3d(0px, 165px, 0px);
+  }
+  4.32% {
+    transform: translate3d(0px, 129px, 0px);
+  }
+  6.48% {
+    transform: translate3d(0px, 124px, 0px);
+  }
+  8.64% {
+    transform: translate3d(0px, 124px, 0px);
+  }
+  10.79% {
+    transform: translate3d(0px, 143px, 0px);
+  }
+  12.95% {
+    transform: translate3d(0px, 158px, 0px);
+  }
+  15.11% {
+    transform: translate3d(0px, 138px, 0px);
+  }
+  17.27% {
+    transform: translate3d(0px, 110px, 0px);
+  }
+  19.43% {
+    transform: translate3d(0px, 110px, 0px);
+  }
+  21.59% {
+    transform: translate3d(0px, 119px, 0px);
+  }
+  23.75% {
+    transform: translate3d(0px, 147px, 0px);
+  }
+  25.91% {
+    transform: translate3d(0px, 166px, 0px);
+  }
+  28.07% {
+    transform: translate3d(0px, 206px, 0px);
+  }
+  30.22% {
+    transform: translate3d(0px, 225px, 0px);
+  }
+  32.38% {
+    transform: translate3d(0px, 241px, 0px);
+  }
+  34.54% {
+    transform: translate3d(0px, 254px, 0px);
+  }
+  36.7% {
+    transform: translate3d(0px, 254px, 0px);
+  }
+  38.86% {
+    transform: translate3d(0px, 558px, 0px);
+    animation-timing-function: cubic-bezier(0.2947, 0.3706, 0.6714, 0.6629);
+  }
+  40.97% {
+    transform: translate3d(0px, 514.16px, 0px);
+  }
+  41.02% {
+    transform: translate3d(0px, 512.33px, 0px);
+    animation-timing-function: cubic-bezier(0.31, 0.1384, 0.6149, 0.7769);
+  }
+  41.34% {
+    transform: translate3d(0px, 502.23px, 0px);
+    animation-timing-function: cubic-bezier(0.3178, 0.3436, 0.714, 0.6304);
+  }
+  43.07% {
+    transform: translate3d(0px, 458.32px, 0px);
+  }
+  43.12% {
+    transform: translate3d(0px, 455.71px, 0px);
+  }
+  43.18% {
+    transform: translate3d(0px, 455px, 0px);
+    animation-timing-function: cubic-bezier(0.3317, 0.3351, 0.6643, 0.669);
+  }
+  44.47% {
+    transform: translate3d(0px, 124.34px, 0px);
+    animation-timing-function: cubic-bezier(0.3367, 0.33, 0.6658, 0.6675);
+  }
+  45.34% {
+    transform: translate3d(0px, -97px, 0px);
+  }
+  47.5% {
+    transform: translate3d(0px, -114px, 0px);
+  }
+  49.65% {
+    transform: translate3d(0px, -78px, 0px);
+    animation-timing-function: cubic-bezier(0.3447, 0.3217, 0.6553, 0.6783);
+  }
+  51.81% {
+    transform: translate3d(0px, 1.6px, 0px);
+  }
+  53.97% {
+    transform: translate3d(0px, 114.26px, 0px);
+  }
+  56.13% {
+    transform: translate3d(0px, 220.16px, 0px);
+    animation-timing-function: cubic-bezier(0.485, -2.3072, 0.5118, -0.0269);
+  }
+  56.62% {
+    transform: translate3d(0px, 224.02px, 0px);
+  }
+  58.13% {
+    transform: translate3d(0px, 262.75px, 0px);
+  }
+  58.29% {
+    transform: translate3d(0px, 258.56px, 0px);
+  }
+  60.45% {
+    transform: translate3d(0px, 299px, 0px);
+  }
+  62.61% {
+    transform: translate3d(0px, 299px, 0px);
+  }
+  64.77% {
+    transform: translate3d(0px, 307px, 0px);
+  }
+  66.93% {
+    transform: translate3d(0px, 315px, 0px);
+  }
+  89.16% {
+    transform: translate3d(0px, 315px, 0px);
+  }
+  91.32% {
+    transform: translate3d(0px, 315px, 0px);
+  }
+  93.48% {
+    transform: translate3d(0px, 315px, 0px);
+  }
+  93.52% {
+    transform: translate3d(0px, 315px, 0px);
+  }
+  95.68% {
+    transform: translate3d(0px, 315px, 0px);
+  }
+  97.84% {
+    transform: translate3d(0px, 315px, 0px);
+  }
+  100% {
+    transform: translate3d(0px, 315px, 0px);
+  }
+}
+[data-gwd-motion-path-node] {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  pointer-events: none;
+}
